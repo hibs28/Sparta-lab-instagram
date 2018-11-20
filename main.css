@@ -1,0 +1,16 @@
+nav li{
+  list-style-type: none;
+  display: inline;
+}
+
+.box{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.nav{
+display: flex;
+align-items: flex-end;
+}
+
